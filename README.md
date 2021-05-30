@@ -11,7 +11,7 @@
 ## ✍️ Note: 
  Do khi chuyển từ file md sang pdf các icon đều bị mất màu. Để xem chi tiết bản có màu `đẹp hơn` nhấp chuột
 
-👉[Markdown Technical Report](https://github.com/tuyentran2222/bt3_giaodienGoogle) 
+👉[Markdown Technical Report](https://github.com/tuyentran2222/TWP) 
 <h1 align="center">
   Markdown Technical Report
 </h1>
@@ -139,7 +139,7 @@ public class WheelFactory implements WheelAbstractFactory {
 
 - Sử dụng khi muốn `tiết kiệm tài nguyên hệ thống` bằng cách sử dụng lại các đối tượng hiện có thay vì xây dựng lại chúng mỗi lần.
 
-# **Proxy Pattern** 🔺🎁🔺
+# **Proxy Pattern** 🔺🎁🦁
 ## ☹️ Vấn đề.
 
 Bạn cần hỗ trợ các đối tượng sử dụng nhiều tài nguyên và bạn `không muốn khởi tạo` các đối tượng đó cho đến khi khách hàng yêu cầu chúng.
